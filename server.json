@@ -1,1 +1,23 @@
-{"$schema":"https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json","description":"Unofficial read-only MCP server for German public holidays (feiertage-api.de) — by year & state, is-it-a-holiday, next holiday.","name":"io.github.mohammad-abbasi-sh/feiertage-mcp","packages":[{"identifier":"feiertage-mcp","registryBaseUrl":"https://pypi.org","registryType":"pypi","transport":{"type":"stdio"},"version":"0.1.0"}],"repository":{"source":"github","url":"https://github.com/mohammad-abbasi-sh/feiertage-mcp"},"title":"Feiertage — German public holidays by year & federal state","version":"0.1.0","websiteUrl":"https://github.com/mohammad-abbasi-sh/feiertage-mcp"}
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "description": "Unofficial read-only MCP server for German public holidays — by year & state, next holiday.",
+  "name": "io.github.mohammad-abbasi-sh/feiertage-mcp",
+  "packages": [
+    {
+      "identifier": "feiertage-mcp",
+      "registryBaseUrl": "https://pypi.org",
+      "registryType": "pypi",
+      "transport": {
+        "type": "stdio"
+      },
+      "version": "0.1.0"
+    }
+  ],
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/mohammad-abbasi-sh/feiertage-mcp"
+  },
+  "title": "Feiertage — German public holidays by year & federal state",
+  "version": "0.1.0",
+  "websiteUrl": "https://github.com/mohammad-abbasi-sh/feiertage-mcp"
+}
