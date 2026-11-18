@@ -7,7 +7,7 @@ name = "feiertage-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for German public holidays (feiertage-api.de) — holidays by year & state, is-it-a-holiday, next holiday & date ranges"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
